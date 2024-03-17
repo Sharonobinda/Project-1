@@ -22,5 +22,5 @@ window.onload = function() {
       links[i].style.color = "black";
       links[i].style.textDecoration = "none";
       links[i].style.marginLeft = "1rem";
-    }
+    };
   };
