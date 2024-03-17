@@ -26,3 +26,6 @@ obindasharon6@gmail.com
 
 Phone:0769600939
 
+# Licence
+MIT licence copyright 2024 SHARON OBINDA.
+
