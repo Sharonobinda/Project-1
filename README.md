@@ -1,3 +1,4 @@
 # Project-1
-My Personal Website contains HTML, CSS and JavaScript
+This is a creation of a page for a portfolio website.
+created by SHARON OBINDA.
 
