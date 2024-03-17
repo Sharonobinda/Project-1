@@ -16,7 +16,6 @@ window.onload = function() {
     navbar.style.boxShadow = "0 0.3rem 0.2rem rgba(0, 0, 0, 0.1)";
     navbar.style.padding = "0.5rem 1rem";
   
-    // Style the links in the navbar
     var links = navbar.getElementsByTagName("a");
     for (var i = 0; i < links.length; i++) {
       links[i].style.color = "black";
