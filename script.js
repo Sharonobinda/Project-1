@@ -5,7 +5,7 @@ window.onload = function() {
     // Add the navbar to the top-right side of the home section
     homeSection.insertBefore(navbar, homeSection.firstChild);
   
-    // Style the navbar to be on top of the home section in one row
+    // Style the navbar to be on top of the home section in one-row
     navbar.style.position = "sticky";
     navbar.style.top = "0";
     navbar.style.zIndex = "1000";
