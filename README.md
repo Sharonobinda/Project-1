@@ -17,3 +17,12 @@ Github
 
 Git clone:https://github.com/sharonobinda/project-1.git
 
+# Support and contact details
+One can support and show concerns through the following:
+
+Email:sharon.obinda@student.moringaschool.com
+
+obindasharon6@gmail.com
+
+Phone:0769600939
+
