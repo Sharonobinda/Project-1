@@ -1,2 +1,3 @@
 # Project-1
-My Personal Website 
+My Personal Website contains HTML, CSS and JavaScript
+
